@@ -150,5 +150,7 @@ A/B Testing in Angular2
 https://github.com/daniellmb/ab-test
 https://github.com/daniellmb/angular-test-patterns/blob/master/patterns/ab.md
 
+## Medium article consists more learning materials from beginner to mastery in A/B testing [some might be covered in above section]
 
+https://towardsdatascience.com/a-collection-of-a-b-testing-learning-resources-newbie-to-master-6bab1e0d7845
 
